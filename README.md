@@ -8,7 +8,7 @@ Your objective is to write a professional and personalised cover letter that enh
 
 
 ### Link to Cover Letter
-[Your Google Docs Cover Letter](<[insert your Google Docs link here](https://docs.google.com/document/d/1Fya9C8ZfwF0GH1e5xGRCChoM5OWBEcqxDW9UmLPzXVk/edit)>)
+[Your Google Docs Cover Letter](https://docs.google.com/document/d/1Fya9C8ZfwF0GH1e5xGRCChoM5OWBEcqxDW9UmLPzXVk/edit)
 
 For detailed project instructions, including the job description and specific sections to include in your cover letter, please refer to the provided project brief on the LMS.
 
